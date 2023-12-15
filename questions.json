@@ -1,32 +1,32 @@
 
 [{"question": "Что это за персонаж?",
 "answers": ["Юрий", "Юлий", "Уильям"],
-"balls": [0, 5, 0]
-"image": "./image_txt/1.Ulii.txt"
+"balls": [0, 5, 0],
+"image": "./image/1.Ulii.txt"
 },
 {"question": "Что это за персонаж?",
 "answers": ["Боб Губка", "Джон Уик", "Патрик Стар"],
-"balls": [0, 0, 5]
-"image": "./image_txt/2.Patric.txt"
+"balls": [0, 0, 5],
+"image": "./image/2.Patric.txt"
 },
 {"question": "Что это за персонаж?",
 "answers": ["Эрик Картман", "Тёрк Тёрклтон", "Барак Обама"],
-"balls": [5, 0, 0]
-"image": "./image_txt/3.Eric.txt"
+"balls": [5, 0, 0],
+"image": "./image/3.Eric.txt"
 },
 {"question": "Что это за персонаж?",
 "answers": ["Владимир Владимирович", "Толя", "Рик"],
-"balls": [0, 0, 5]
-"image": "./image_txt/4.Ric.txt"
+"balls": [0, 0, 5],
+"image": "./image/4.Ric.txt"
 },
 {"question": "Что это за персонаж?",
 "answers": ["Сигма", "Симба", "Шерхан"],
-"balls": [0, 5, 0]
-"image": "./image_txt/5.Simba.txt"
+"balls": [0, 5, 0],
+"image": "./image/5.Simba.txt"
 },
 {"question": "Что это за персонаж?",
 "answers": ["Бендер", "Бандероль", "Блендер"],
-"balls": [5, 0, 0]
-"image": "./image_txt/6.Bender.txt"
+"balls": [5, 0, 0],
+"image": "./image/6.Bender.txt"
 }
 ]
