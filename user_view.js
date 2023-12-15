@@ -9,7 +9,6 @@ async function fileReader() {
 
   for (let i = 0; i < readFile1.length; i += 1) {
     const imageView = await fs.readFile(`${readFile1[i].image}`, "utf-8").then((el) => el);
-    console.clear();
 
     const answer = await inquirer
       .prompt([
@@ -24,6 +23,7 @@ async function fileReader() {
           ],
         },
       ]);
+      console.clear();
 
     resultSum += answer.selectedAnswer;
     console.log(`Vi zarabotali ${resultSum} o4k0v, moi pupsiki`);
